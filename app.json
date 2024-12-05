@@ -1,0 +1,12 @@
+{
+  "name": "Beautiverse",
+  "displayName": "Beautiverse",
+  "svgAppIcon": {
+    "foregroundPath": "./icon.svg",
+
+    "platforms": ["ios","android"],
+    "force": false,
+    "androidOutputPath": "./android/app/src/main/res",
+    "iosOutputPath": "./ios/MyAppName/Images.xcassets/AppIcon.appiconset"
+  }
+}
